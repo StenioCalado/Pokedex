@@ -1,6 +1,6 @@
 # pokedex_flutter
 
-Projeto Flutter com temática de Pokédex, desenvolvido para a disciplina de Computação para Dispositivos Móveis da FMU, sob orientação do professor Eugênio Akihiro Nassu.
+A new Flutter project.
 
 ## Getting Started
 
