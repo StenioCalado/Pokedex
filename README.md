@@ -9,7 +9,7 @@ Aplicativo mobile de Pokédex desenvolvido em **Flutter + Dart** como projeto da
 | Nome | GitHub |
 |---|---|
 | Stenio Calado | [@StenioCalado](https://github.com/StenioCalado) |
-| Wesley Almeida | — |
+| Wesley Almeida | [@idkWhisper] (https://github.com/idkWhisper) |
 | Jeniffer Vitória | — |
 
 ---
